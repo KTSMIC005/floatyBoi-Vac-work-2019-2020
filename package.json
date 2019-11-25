@@ -1,0 +1,29 @@
+{
+  "name": "floatyboi_data_management",
+  "version": "1.0.0",
+  "description": "A package to retrieve and manage data from sensors placed in Antartica",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KTSMIC005/floatyBoi-Vac-work-2019-2020---Documents.git"
+  },
+  "keywords": [
+    "sensor",
+    "antarctic",
+    "vacwork",
+    "uct"
+  ],
+  "author": "Michael Katsoulis and Amaan Vally",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KTSMIC005/floatyBoi-Vac-work-2019-2020---Documents/issues"
+  },
+  "homepage": "https://github.com/KTSMIC005/floatyBoi-Vac-work-2019-2020---Documents#readme",
+  "dependencies": {
+    "node-red": "^1.0.2",
+    "node-red-contrib-influxdb": "^0.4.0"
+  }
+}
