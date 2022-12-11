@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/KTSMIC005/floatyBoi-Vac-work-2019-2020---Documents#readme",
   "dependencies": {
-    "node-red": "^1.0.2",
+    "node-red": "^3.0.2",
     "node-red-contrib-influxdb": "^0.4.0"
   }
 }
